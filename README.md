@@ -1,4 +1,4 @@
 go-serve-this
 =============
 
-Creates an HTTP server that serve's the contents of the current working directory
+Creates an HTTP server that serves the contents of the current working directory
